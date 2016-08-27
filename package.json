@@ -1,0 +1,24 @@
+{
+  "name": "dattata",
+  "version": "1.0.0",
+  "description": "A collection of pureish, functional-inspired datatypes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiavictor/dattata.git"
+  },
+  "keywords": [
+    "datatypes",
+    "adts",
+    "functional"
+  ],
+  "author": "maiavictor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maiavictor/dattata/issues"
+  },
+  "homepage": "https://github.com/maiavictor/dattata#readme"
+}
